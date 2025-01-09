@@ -19,7 +19,7 @@ Terraform creates and manages resources on cloud platforms and other services th
 ## Why Terraform?
 1. Manage any infrastructure
 2. Track our infrastructure
-3. Track our infrastructure
+3. Monitor our infrastructure
 4. Automate changes
 5. Standardize configuration
 7. Large Community
